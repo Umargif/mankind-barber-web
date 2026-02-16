@@ -1,0 +1,7 @@
+{
+  "name": "Mankind Gentlemen Barber Shop",
+  "description": "A premium barber shop experience offering classic cuts, modern styles, and AI-powered style consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
